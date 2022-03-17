@@ -1,9 +1,9 @@
- #Certificates
+ # Certificates
 
-C Programing
+* C Programing
 
-Linux
+* Linux
 
-Git Training
+* Git Training
 
-First Day Github
+* First Day Github
